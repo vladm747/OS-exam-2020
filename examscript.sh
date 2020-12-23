@@ -13,4 +13,4 @@ echo "$day"
 
 echo "Creating a directory with the time at the moment..."
 mkdir "Folder-"+` date  +%H:%M:%S`
-echo "Directory created:)"
+echo "Directory done:)"
